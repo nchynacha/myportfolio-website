@@ -8,7 +8,7 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 ## 🛠️ Built With
 
 - **Vue 3**  
-- **Vite** (or your chosen build tool)  
+- **Vite** 
 - **Tailwind CSS** for styling  
 - **Vercel** for deployment  
 
